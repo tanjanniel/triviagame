@@ -4,7 +4,7 @@ Submitted by: **Janniel Tan**
 
 **Trivia Game** is an app that ... challenge users with trivia questions spanning a variety of categories and difficulties.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
